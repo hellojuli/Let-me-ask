@@ -49,7 +49,7 @@
 
 ```bash
 # clonar o repositorio
-$ git clone https://github.com/kelwinv/nlw06-letmeask.git
+$ git clone https://github.com/hellojuli/Let-me-ask.git
 
 # entrar na pasta
 $ cd nlw06-letmeask
